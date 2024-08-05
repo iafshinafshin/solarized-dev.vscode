@@ -1,0 +1,28 @@
+{
+  "publisher": "sherloach",
+  "name": "solarized-osaka",
+  "displayName": "Solarized Osaka",
+  "description": "A clean solarized-inspired theme",
+  "license": "MIT",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iafshinafshin/solarized-dev.vscode"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solarized Osaka-color-theme.json"
+      }
+    ]
+  }
+}
