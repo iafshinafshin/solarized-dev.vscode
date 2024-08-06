@@ -1,7 +1,7 @@
 {
-  "publisher": "sherloach",
-  "name": "solarized-osaka",
-  "displayName": "Solarized Osaka",
+  "publisher": "Afshin",
+  "name": "solarized-dev",
+  "displayName": "Solarized Dev",
   "description": "A clean solarized-inspired theme",
   "license": "MIT",
   "version": "0.1.1",
@@ -21,7 +21,7 @@
       {
         "label": "Solarized Dev",
         "uiTheme": "vs-dark",
-        "path": "./themes/Solarized Osaka-color-theme.json"
+        "path": "./themes/SolarizedDev-color-theme.json"
       }
     ]
   }
